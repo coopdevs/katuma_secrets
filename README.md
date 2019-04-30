@@ -1,5 +1,7 @@
 # Katuma secrets
 
+DEPRECATED in favour of https://github.com/openfoodfoundation/ofn-secrets. See https://github.com/coopdevs/katuma_secrets/issues/11 for details.
+
 These are the secrets files used for Katuma's staging and production environments.
 
 ## Usage
